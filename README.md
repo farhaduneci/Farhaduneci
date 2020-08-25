@@ -1,11 +1,16 @@
-## Hi there I'm Farhad👋
+# Farhad Uneci
+`Hamedan, IRAN` | `+98 939 846 6445` | `Farhaduneci@gmail.com`
+###
+> Currently completing courses in computer science, robotics and statisticsStudied and became conversational in English!
 
-### 🌱 I’m currently learning Laravel, Found it cool & I hope to create things that matters with it!
+PHP developer, and web designer, I have fluid understanding of many programming languages including C++, Java, JavaScript, XML, PHP, and HTML I've also worked with some frameworks like Laravel. I have experiences with tools like NodeJs and completed projects in almost every field I liked to try. Worked with a large community of developers to maintain and improve company projects in Git and Git-lab.
 
-👯 I’m looking to collaborate on some projects related to JS, HTML, CSS, PHP, ... If you liked!
+### Education
+- Hamedan University Of Technology - Software enginnering
 
-💬 Ask me questions if you had on my blog, [Unecicodes.ir](https://unecicodes.ir)
+> I’m always looking forwad to collaborate on open source projects
 
-##### 📫 How to reach me: 
+💬 Ask me questions if you had any on my blog, [Unecicodes.ir](https://unecicodes.ir)
+
+##### 📫 Other ways to reach me: 
  You can email me on both ```Farhaduneci@gmail.com``` Or ```Farhad@unecicodes.ir```
- 
