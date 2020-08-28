@@ -1,9 +1,9 @@
 # Farhad Uneci
 `Hamedan, IRAN` | `+98 939 846 6445` | `Farhaduneci@gmail.com`
 
-> Currently completing courses in computer science, robotics and statisticsStudied and became conversational in English!
+> Currently completing courses in computer science, robotics and statistics. Studing to be conversational in English!
 
-PHP developer, and web designer, I've been endeavoring both to study and grasp knowledge about many programming languages including C++, Java, JavaScript, XML, PHP, and HTML I've also worked with some frameworks like Laravel. Love to work with a large community of developers to maintain and improve company projects in Git and Git-lab.
+Web developer, web design eager, I've been endeavoring both to study and grasp knowledge about many programming languages including C++, Java, JavaScript, XML, PHP, and HTML/CSS. I've also worked with some frameworks like Laravel. Love to work with a large community of developers to maintain and improve projects in Git and Git-lab.
 
 ### Education
 - Hamedan University Of Technology - Software enginnering :hourglass_flowing_sand:
