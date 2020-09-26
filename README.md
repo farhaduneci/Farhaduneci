@@ -16,8 +16,8 @@ Web developer, web design eager, I've been endeavoring both to study and grasp k
 
 ---
 
-### :books: My Books list
-I try to share my favorite books here too, that would be greate if you have a look & help to explore new topics, [HAVE A LOOK](https://github.com/Farhaduneci/favoritebooks)
+### :books: My Book summaries
+I try to share my favorite book summaries made by me, that would be greate if you have a look & help me to fix, improve or explore new topics, [HAVE A LOOK](https://github.com/Farhaduneci/booksums)
 
 #### Have a look at
 I recommend you to have a look at these recent projects witch I've found intresting to follow!
