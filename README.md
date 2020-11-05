@@ -5,8 +5,12 @@
 
 Web developer, web design eager, I've been endeavoring both to study and grasp knowledge about many programming languages including C++, Java, JavaScript, XML, PHP, and HTML/CSS. I've also worked with some frameworks like Laravel. Love to work with a large community of developers to maintain and improve projects in Git and Git-lab.
 
+<a href="https://github.com/farhaduneci"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=farhaduneci" align="right" height="140" /></a>
+
 ### Education
 - Hamedan University Of Technology - Software enginnering :hourglass_flowing_sand:
+
+---
 
 ### How to reach me
 
@@ -14,12 +18,5 @@ Web developer, web design eager, I've been endeavoring both to study and grasp k
 
 > 📫 You can also email me on both `Farhaduneci@gmail.com` Or `Farhad@unecicodes.ir`
 
----
-
 ### :books: My Book summaries
 I try to share my favorite book summaries made by me, that would be greate if you have a look & help me to fix, improve or explore new topics, [HAVE A LOOK](https://github.com/Farhaduneci/booksums)
-
-#### Have a look at
-I recommend you to have a look at these recent projects witch I've found intresting to follow!
-
-[Tainwindcss](https://tailwindcss.com) | [Livewire](https://laravel-livewire.com) | [KaiOS](https://kaiostech.com)
