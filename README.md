@@ -10,8 +10,6 @@ Web developer, web design eager, I've been endeavoring both to study and grasp k
 ### Education
 - Hamedan University Of Technology - Software enginnering :hourglass_flowing_sand:
 
----
-
 ### How to reach me
 
 💬 Ask me questions if you had any on my blog, [Unecicodes.ir](https://unecicodes.ir)
