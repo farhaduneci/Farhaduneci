@@ -1,9 +1,7 @@
 # Farhad Uneci
 `Hamedan, IRAN` | `+98 939 846 6445` | `Farhaduneci@gmail.com`
 
-> Currently completing courses in computer science, robotics and statistics. Studing to be conversational in English!
-
-Web developer, web design eager, I've been endeavoring both to study and grasp knowledge about many programming languages including C++, Java, JavaScript, XML, PHP, and HTML/CSS. I've also worked with some frameworks like Laravel. Love to work with a large community of developers to maintain and improve projects in Git and Git-lab.
+> I am currently completing courses in computer science & robotics. I'm also trying to be conversational in English, and Deutsch!
 
 <a href="https://github.com/farhaduneci"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=farhaduneci" align="right" height="140" /></a>
 
