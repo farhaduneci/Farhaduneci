@@ -1,7 +1,7 @@
 # Farhad Uneci
 `Hamedan, IRAN` | `+98 939 846 6445` | `Farhaduneci@gmail.com`
 
-> I am currently completing courses in computer science & robotics. I'm also trying to be conversational in English, and Deutsch!
+> Lerning Ruby.
 
 <a href="https://github.com/farhaduneci"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=farhaduneci" align="right" height="140" /></a>
 
