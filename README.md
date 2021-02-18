@@ -3,7 +3,7 @@
 I am Farhad Uneci, currently pursuing my bachelor's degree majoring in computer software engineering from [The Hamedan University Of Technology](https://hut.ac.ir/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 <div>
-  <a href="https://www.linkedin.com/in/farhad-uneci/" target="blank">
+  <a href="https://www.linkedin.com/in/farhad-uneci/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
@@ -11,7 +11,7 @@ I am Farhad Uneci, currently pursuing my bachelor's degree majoring in computer 
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="http://t.me/farhaduneci" target="blank">
+  <a href="http://t.me/farhaduneci" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </div>
@@ -56,10 +56,10 @@ I am Farhad Uneci, currently pursuing my bachelor's degree majoring in computer 
 If you have followed me up until here, Let's continue with these
 
 <div>
-  <a href="https://dev.to/farhaduneci" target="blank">
+  <a href="https://dev.to/farhaduneci" target="_blank">
     <img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" >
   </a>
-  <a href="https://stackoverflow.com/users/14855041/farhad-uneci?tab=profile" target="blank">
+  <a href="https://stackoverflow.com/users/14855041/farhad-uneci?tab=profile" target="_blank">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
 </div>
