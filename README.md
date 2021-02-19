@@ -1,3 +1,19 @@
+```
+      ___           ___           ___           ___           ___                   
+     /\__\         /\  \         /\  \         /\  \         /\  \         _____    
+    /:/ _/_       /::\  \       /::\  \        \:\  \       /::\  \       /::\  \   
+   /:/ /\__\     /:/\:\  \     /:/\:\__\        \:\  \     /:/\:\  \     /:/\:\  \  
+  /:/ /:/  /    /:/ /::\  \   /:/ /:/  /    ___ /::\  \   /:/ /::\  \   /:/  \:\__\ 
+ /:/_/:/  /    /:/_/:/\:\__\ /:/_/:/__/___ /\  /:/\:\__\ /:/_/:/\:\__\ /:/__/ \:|__|
+ \:\/:/  /     \:\/:/  \/__/ \:\/:::::/  / \:\/:/  \/__/ \:\/:/  \/__/ \:\  \ /:/  /
+  \::/__/       \::/__/       \::/~~/~~~~   \::/__/       \::/__/       \:\  /:/  / 
+   \:\  \        \:\  \        \:\~~\        \:\  \        \:\  \        \:\/:/  /  
+    \:\__\        \:\__\        \:\__\        \:\__\        \:\__\        \::/  /   
+     \/__/         \/__/         \/__/         \/__/         \/__/         \/__/    
+
+```
+
+
 # **Hello World!** <img src="https://raw.githubusercontent.com/farhaduneci/farhaduneci/master/wave.gif" width="30px">
 
 I am Farhad Uneci, currently pursuing my bachelor's degree majoring in computer software engineering from [The Hamedan University Of Technology](https://hut.ac.ir/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
@@ -47,9 +63,9 @@ I am Farhad Uneci, currently pursuing my bachelor's degree majoring in computer 
 
 ## 📊 Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=farhaduneci&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=farhaduneci&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhaduneci&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhaduneci&layout=compact&theme=material-palenight)
 
 
 ## 🔍 Find me else where
@@ -66,4 +82,8 @@ If you have followed me up until here, Let's continue with these
 
 ---
 
+🍴 ed From https://github.com/aemmadi/aemmadi
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=farhaduneci.farhaduneci)
+[![Years Badge](https://badges.pufler.dev/years/farhaduneci)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/farhaduneci)](https://badges.pufler.dev)
