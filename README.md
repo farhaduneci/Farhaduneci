@@ -57,8 +57,6 @@ I am Farhad Uneci, currently pursuing my bachelor's degree majoring in computer 
     <img src="https://github-readme-stats.vercel.app/api?username=farhaduneci&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Github Stats">
 </div>
 
----
-
 🍴 ed From https://github.com/aemmadi/aemmadi
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=farhaduneci.farhaduneci)
