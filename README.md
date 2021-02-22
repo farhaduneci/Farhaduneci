@@ -52,10 +52,12 @@ I am Farhad Uneci, currently pursuing my bachelor's degree majoring in computer 
 
 ## 📊 Stats
 
-<div style="display: flex; gap: 5px;">
+<div style="display: flex; flex-flow: row wrap; gap: 6px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhaduneci&theme=material-palenight" alt="Streaks">
     <img src="https://github-readme-stats.vercel.app/api?username=farhaduneci&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Github Stats">
 </div>
+
+---
 
 🍴 ed From https://github.com/aemmadi/aemmadi
 
