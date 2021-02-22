@@ -52,10 +52,10 @@ I am Farhad Uneci, currently pursuing my bachelor's degree majoring in computer 
 
 ## 📊 Stats
 
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=farhaduneci&theme=material-palenight)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=farhaduneci&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhaduneci&layout=compact&theme=material-palenight)
+<div style="display: flex; gap: 5px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhaduneci&theme=material-palenight" alt="Streaks">
+    <img src="https://github-readme-stats.vercel.app/api?username=farhaduneci&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Github Stats">
+</div>
 
 ---
 
