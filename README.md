@@ -46,16 +46,6 @@ I am Farhad Uneci, currently pursuing my bachelor's degree majoring in computer 
   <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 </div>
 
-## 📊 Stats
-
-<div style="display: flex; flex-flow: row wrap; gap: 6px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=farhaduneci&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Github Stats">
-</div>
-
 ---
 
 🍴 ed From https://github.com/aemmadi/aemmadi
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=farhaduneci.farhaduneci)
-[![Years Badge](https://badges.pufler.dev/years/farhaduneci)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/farhaduneci)](https://badges.pufler.dev)
