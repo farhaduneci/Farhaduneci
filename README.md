@@ -46,6 +46,12 @@ I am Farhad Uneci, currently pursuing my bachelor's degree majoring in computer 
   <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 </div>
 
+## 📈 Stats
+
+<a href="https://www.codewars.com/users/Farhaduneci" target="_blank">
+  <img alt="CodeWars" src="https://www.codewars.com/users/Farhaduneci/badges/small"/>
+</a>
+
 ---
 
 🍴 ed From https://github.com/aemmadi/aemmadi
