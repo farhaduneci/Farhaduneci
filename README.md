@@ -37,7 +37,7 @@ I am Farhad Uneci, currently pursuing my bachelor's degree majoring in computer 
 ## 📈 Stats
 
 <a href="https://www.codewars.com/users/Farhaduneci" target="_blank">
-  <img alt="CodeWars" src="https://www.codewars.com/users/Farhaduneci/badges/small"/>
+  <img alt="CodeWars" src="https://www.codewars.com/users/feriun/badges/small"/>
 </a>
 
 ---
