@@ -1,6 +1,6 @@
-# **Hello World!** <img src="https://raw.githubusercontent.com/farhaduneci/farhaduneci/master/wave.gif" width="30px">
+# **Hello World! 🌏** <img src="https://raw.githubusercontent.com/farhaduneci/farhaduneci/master/wave.gif" width="32px">
 
-I am Farhad Uneci, currently pursuing my bachelor's degree majoring in computer software engineering from [The Hamedan University Of Technology](https://hut.ac.ir/). I am a tech enthusiast & an open-source advocate.
+I'm Farhad, currently pursuing my bachelor's degree majoring in computer software engineering from [The Hamedan University of Technology](https://hut.ac.ir/). I am a tech enthusiast & an open-source advocate.
 
 <div>
   <a href="https://www.linkedin.com/in/farhad-uneci/">
