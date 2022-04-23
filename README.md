@@ -7,7 +7,7 @@ I'm Farhad, currently pursuing my bachelor's degree majoring in computer softwar
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-   <a href="https://dev.to/farhaduneci">
-    <img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" >
+   <a href="https://twitter.com/Feriunn">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" >
   </a>
 </div>
