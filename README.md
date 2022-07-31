@@ -10,6 +10,6 @@ I'm Farhad, currently pursuing my bachelor's degree majoring in computer softwar
    <a href="https://twitter.com/Feriunn">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" >
   </a>
+  
+   <img src="https://komarev.com/ghpvc/?username=farhaduneci&color=lightgrey&style=for-the-badge"/>
 </div>
-
-![](https://komarev.com/ghpvc/?username=farhaduneci&color=gray)
