@@ -11,3 +11,5 @@ I'm Farhad, currently pursuing my bachelor's degree majoring in computer softwar
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" >
   </a>
 </div>
+
+![](https://komarev.com/ghpvc/?username=farhaduneci&color=gray)
