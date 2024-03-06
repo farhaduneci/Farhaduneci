@@ -1,6 +1,7 @@
 # **Hello World! 🌏**
 
-I'm Farhad, currently pursuing my bachelor's degree majoring in computer software engineering from [The Hamedan University of Technology](https://hut.ac.ir/). A tech enthusiast & an open-source advocate.
+I'm Farhad, a hard-working, highly motivated individual with proficiency in Python and Django.
+A tech enthusiast, an open-source advocate, and a software engineering athirst.
 
 <div>
   <a href="https://www.linkedin.com/in/farhad-uneci/">
