@@ -1,10 +1,8 @@
-# **Hello World! 🌏**
+# **Hello, World! 🌍**
 
-I'm Farhad, a hard-working, highly motivated individual with proficiency in Python and Django.
-A tech enthusiast, an open-source advocate, and a software engineering athirst.
+I’m Farhad, a tech enthusiast, an open-source advocate, and a software engineering athirst.
+I enjoy coding in Python and building efficient systems. Currently, I'm learning how NNs, LLMs, and AI work.
 
-<div>
-  <a href="https://www.linkedin.com/in/farhad-uneci/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
+Let’s connect and create something amazing together! 🚀
+
+[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhad-uneci/)
